@@ -1,1 +1,5 @@
-# E-Library-App
+# Library Management System
+A library is a place where books and sources of information are stored. They make it easier for people to get access to them for various purposes. Libraries are very helpful and economical too. They includes books, journals, magazines, newspapers, manuscrips, DVDs and more.
+Libraries continue to be places for education and self-help and offer opportunity for people of all ages and backgrounds. They offer opportunity for everyone to learn and to pursue self-improvement.
+The Library management system acts as a tool to transform traditional libraries into digital libraries,uesd to manage the details of Address, Member, issues,,add books. Also to manage the information about librarian for accountability. It is also used to track bills, books, and customers who has borrowed books from the library.
+A library management system enchances the efficiency of both the librarians and the library users. It enables librarians to easily catalog books and keep proper records of books issued, reissued, and those not returned.
