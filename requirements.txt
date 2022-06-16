@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Pillow==9.1.1
-streamlit==1.10.1
-=======
 pillow==9.1.1
 streamlit==1.10.0
->>>>>>> e587635 (my first commit)
